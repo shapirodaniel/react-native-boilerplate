@@ -1,0 +1,12 @@
+{
+  "name": "mobile-boilerplate",
+  "displayName": "mobile-boilerplate",
+  "expo": {
+    "name": "mobile-boilerplate",
+    "slug": "mobile-boilerplate",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
