@@ -5,6 +5,9 @@
 # package
 package-lock.json
 
+# env
+.env
+
 # Xcode
 #
 build/
